@@ -1,2 +1,1 @@
-##Welcome
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnFtQ6HXXwf9kjSxvCEJPP8%2Fmain-page%3Fnode-id%3D55%253A0%26viewport%3D-1081%252C911%252C0.5%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: none;" width="1440" height="1024" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnFtQ6HXXwf9kjSxvCEJPP8%2Fmain-page%3Fnode-id%3D55%253A0%26viewport%3D-1081%252C911%252C0.5%26scaling%3Dmin-zoom" allowfullscreen></iframe>
